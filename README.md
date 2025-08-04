@@ -79,8 +79,8 @@ If you have solved a better version of any problem or want to improve code reada
 ## 💬 Connect With Me
 
 
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/chandra-prakash-rai)
-- 💻 LeetCode: [yourusername](https://leetcode.com/u/Chandra158/)
+- 💼 LinkedIn: [Chandra Prakash Rai](https://linkedin.com/in/chandra-prakash-rai)
+- 💻 LeetCode: [Chandra Prakash Rai](https://leetcode.com/u/Chandra158/)
 
 ---
 
